@@ -1,0 +1,15 @@
+{
+  "name": "react-blog-app",
+  "version": "0.0.1",
+  "description": "First React.js project",
+  "main": "Post.js",
+  "scripts": {
+    "start": "open http://localhost:4321 & httpster -p 4321"
+  },
+  "author": "Kristin Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}
